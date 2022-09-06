@@ -57,7 +57,7 @@ Should you have any suggestions or make any optimizations, we would love to hear
 We hope you enjoy our app. :)
 
 
-# If We Had More Time
+# Future Optimizations
 
 1) Add logic to percentage of tasks complete calculation to ensure the rendered value does not exceed 100% or fall under 0%.
 2) Add a status bar or visual representation of project percent completeness.
@@ -74,10 +74,15 @@ We hope you enjoy our app. :)
 # Contributors
 
 Robert Arroyo [@...](https://github.com/...)
+
 Breanna Bang [@breabang](https://github.com/breabang)
+
 JP Canindo[@j...](https://github.com/...)
+
 Aaron Clamp [@ronaldconn](https://github.com/ronaldconn)
+
 Terrashawn Starks [@...](https://github.com/...)
+
 Jacob Willkomm [@JacobWillkomm](https://github.com/JacobWillkomm)
 
 
